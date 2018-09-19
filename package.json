@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-mooveit-standard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "eslint configuration based on standard",
   "main": "index.js",
   "directories": {

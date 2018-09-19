@@ -14,10 +14,10 @@ module.exports = {
       sourceType: 'module'
   },
   plugins: [
+      'react',
       'import',
       'node',
       'promise',
-      'react',
       'standard'
   ],
   rules: {
@@ -35,10 +35,5 @@ module.exports = {
       'describe': false,
       'localStorage': false,
       'sessionStorage': false
-  },
-  settings: {
-      react: {
-          pragma: 'h'
-      }
   }
 }
