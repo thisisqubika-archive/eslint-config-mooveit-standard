@@ -1,6 +1,6 @@
 # Eslint Config Moove-it Standard
 
-An Eslint (shareable config)[https://eslint.org/docs/developer-guide/shareable-configs] for the style we use for some projects.
+An Eslint [shareable config](https://eslint.org/docs/developer-guide/shareable-configs) for the style we use for some projects.
 
 ## Install
 
