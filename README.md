@@ -37,3 +37,4 @@ Add this to the `eslintrc.json` or `.eslintrc` file:
 - Single quotes
 - Optional prop types
 - No semi colons
+- Prefer let

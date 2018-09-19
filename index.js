@@ -14,6 +14,7 @@ module.exports = {
       sourceType: 'module'
   },
   plugins: [
+      'prefer-let',
       'react',
       'import',
       'node',

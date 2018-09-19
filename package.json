@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-mooveit-standard",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "eslint configuration based on standard",
   "main": "index.js",
   "directories": {
@@ -30,6 +30,7 @@
     "eslint-config-standard-jsx": "^6.0.2",
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-prefer-let": "^1.0.1",
     "eslint-plugin-promise": "^4.0.1",
     "eslint-plugin-react": "^7.11.1",
     "eslint-plugin-standard": "^4.0.0"
