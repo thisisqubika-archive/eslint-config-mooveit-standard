@@ -1,0 +1,43 @@
+{
+  "name": "eslint-config-mooveit-standard",
+  "version": "1.0.0",
+  "description": "eslint configuration based on standard",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node_modules/.bin/tape test/*.js | tnyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/moove-it/eslint-config-mooveit-standard"
+  },
+  "keywords": [
+    "code linter",
+    "standard",
+    "lint"
+  ],
+  "author": "lucas aragno <lucas.aragno@moove-it.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moove-it/eslint-config-mooveit-standard/issues"
+  },
+  "homepage": "https://github.com/moove-it/eslint-config-mooveit-standard#readme",
+  "dependencies": {
+    "babel-eslint": "^9.0.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-config-standard-jsx": "^6.0.2",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-react": "^7.11.1",
+    "eslint-plugin-standard": "^4.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.6.0",
+    "prettier": "^1.14.3",
+    "tap-nyan": "^1.1.0",
+    "tape": "^4.9.1"
+  }
+}
